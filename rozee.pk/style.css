@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.btn-1{
+    background-color: #46b749;
+}
+.btn-2{
+    background-color: #23315f;
+}
+.btn-1:hover{
+    background-color: #46b749;
+}
+.btn-2:hover{
+    background-color: #23315f;
+}
+.banner-img-1{
+    position: relative;
+    background-image: url('./images/banner_bg\ \(1\).png');
+    background-size: cover;
+    height: 50vh;
+}
+.spn-txt{
+    color: orangered;
+}
